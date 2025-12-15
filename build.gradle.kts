@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm") version "2.2.20"
 }
 
-group = "org.example"
+group = "jaeggich.aoc2025"
 version = "1.0-SNAPSHOT"
 
 repositories {

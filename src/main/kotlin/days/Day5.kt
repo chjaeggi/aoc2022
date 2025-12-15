@@ -1,4 +1,4 @@
-package jaeggich.aoc2022.days
+package days
 
 import utils.execFileByLine
 

@@ -4,7 +4,6 @@ import kotlin.math.max
 import kotlin.math.min
 import kotlin.math.pow
 import kotlin.math.sqrt
-import kotlin.text.compareTo
 
 data class Point2D(
     val x: Int,

@@ -28,3 +28,4 @@ PS: I restarted the challenges but had day 1 to 4 solved already previously. So 
 | 6   | Tuning Trouble          | [\[Code\]](https://github.com/chjaeggi/aoc2022/blob/main/src/main/kotlin/days/Day6.kt) [\[AoC\]](http://adventofcode.com/2022/day/6) |
 | 7   | No Space Left On Device | [\[Code\]](https://github.com/chjaeggi/aoc2022/blob/main/src/main/kotlin/days/Day7.kt) [\[AoC\]](http://adventofcode.com/2022/day/7) |
 | 8   | Treetop Tree House      | [\[Code\]](https://github.com/chjaeggi/aoc2022/blob/main/src/main/kotlin/days/Day8.kt) [\[AoC\]](http://adventofcode.com/2022/day/8) |
+| 9   | Rope Bridge             | [\[Code\]](https://github.com/chjaeggi/aoc2022/blob/main/src/main/kotlin/days/Day9.kt) [\[AoC\]](http://adventofcode.com/2022/day/9) |

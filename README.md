@@ -22,6 +22,8 @@ PS: I restarted the challenges but had day 1 to 4 solved already previously. So 
 
 #### Daily Solution Index for 2022
 
-| Day | Title         | Links                                                                                                                    |
-|-----|---------------|--------------------------------------------------------------------------------------------------------------------------|
-| 5   | Supply Stacks | [\[Code\]](https://github.com/chjaeggi/aoc2022/blob/main/src/days/Day5.kt) [\[AoC\]](http://adventofcode.com/2022/day/5) |
+| Day | Title                   | Links                                                                                                                    |
+|-----|-------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| 5   | Supply Stacks           | [\[Code\]](https://github.com/chjaeggi/aoc2022/blob/main/src/days/Day5.kt) [\[AoC\]](http://adventofcode.com/2022/day/5) |
+| 6   | Tuning Trouble          | [\[Code\]](https://github.com/chjaeggi/aoc2022/blob/main/src/days/Day6.kt) [\[AoC\]](http://adventofcode.com/2022/day/6) |
+| 7   | No Space Left On Device | [\[Code\]](https://github.com/chjaeggi/aoc2022/blob/main/src/days/Day7.kt) [\[AoC\]](http://adventofcode.com/2022/day/7) |
